@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Backend",
+    "issuesCount": 65
+  },
+  {
+    "name": "Synchronization",
+    "issuesCount": 12
+  },
+  {
+    "name": "Templates",
+    "issuesCount": 25
+  }
+]
